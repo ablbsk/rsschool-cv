@@ -51,3 +51,7 @@ Project role: Front-end developer
 Project description: The player, controlling a Tank, must destroy enemy tanks in each level. Battleground is visible from above  
 Used tools:  HTML5, CSS3, JavaScript, jQuery, SPA  
 Link: [Github](https://is.gd/4fcCf8)   
+
+## Languages
+Russian – Native Speaker  
+English – A2  
