@@ -25,3 +25,14 @@ function sum(a) {
 
 console.log(sum(1)(5));
 ```
+
+## Education
+**September 1, 2019 – April 30, 2021 – Yanka Kupala State University of Hrodna**  
+Stage: Magistracy  
+Specialization: Applied physics (physico-technical faculty)  
+  
+**September 1, 2014 – August 1, 2019 – Yanka Kupala State University of Hrodna**  
+Specialization: Information and measuring equipment (physico-technical faculty)  
+  
+**August 31, 2018 – November 30, 2018 – Educational Center of High-Tech Park**  
+Course: Web application development on JavaScript by Instinctools  
