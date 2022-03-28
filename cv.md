@@ -14,3 +14,14 @@ I aspire to become a front-end developer, because this modern profession allows 
 - HTML5, CSS3 (SASS, BEM)
 - JavaScript, Basic React, Redux
 - Git, GitHub  
+
+## Code example
+```
+function sum(a) {
+  return function (b) {
+    return a + b;
+  };
+}
+
+console.log(sum(1)(5));
+```
