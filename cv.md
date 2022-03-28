@@ -9,3 +9,8 @@ Skype:  [Aliaksei Balabushka](https://join.skype.com/invite/DjqCQL1KupOn)
 
 ## About me
 I aspire to become a front-end developer, because this modern profession allows me to reveal myself and my talent, which requires constant improvement of my knowledge and skills. Web development attracts me with its diversity and relevance in the modern digital world.  
+
+## Skills
+- HTML5, CSS3 (SASS, BEM)
+- JavaScript, Basic React, Redux
+- Git, GitHub  
