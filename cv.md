@@ -6,3 +6,6 @@ Email:  aliaksei.balabushka@gmail.com
 Telegram: [Aliaksei Balabushka](https://t.me/ablbsk)  
 Discord: [Aliaksei (@ablbsk)](https://discordapp.com/users/289805391091728385/)  
 Skype:  [Aliaksei Balabushka](https://join.skype.com/invite/DjqCQL1KupOn)  
+
+## About me
+I aspire to become a front-end developer, because this modern profession allows me to reveal myself and my talent, which requires constant improvement of my knowledge and skills. Web development attracts me with its diversity and relevance in the modern digital world.  
